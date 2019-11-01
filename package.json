@@ -2,8 +2,7 @@
   "name": "spot-actions",
   "version": "1.0.0",
   "description": "",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/cnishina/spot-actions.git"
@@ -13,5 +12,11 @@
   "bugs": {
     "url": "https://github.com/cnishina/spot-actions/issues"
   },
-  "homepage": "https://github.com/cnishina/spot-actions#readme"
+  "homepage": "https://github.com/cnishina/spot-actions#readme",
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0-alpha.5"
+  },
+  "devDependencies": {
+    "@types/selenium-webdriver": "^4.0.5"
+  }
 }
