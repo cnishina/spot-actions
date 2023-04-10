@@ -14,7 +14,7 @@
   },
   "homepage": "https://github.com/cnishina/spot-actions#readme",
   "dependencies": {
-    "selenium-webdriver": "^4.0.0-alpha.5"
+    "selenium-webdriver": "^4.8.2"
   },
   "devDependencies": {
     "@types/node": "^12.12.3",
